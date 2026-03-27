@@ -1,5 +1,13 @@
 # Market Entry Analysis Tool — Indian D2C Skincare
 
+
+## App Preview
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
+![screenshot3](screenshot3.png)
+![screenshot4](screenshot4.png)
+![screenshot5](screenshot5.png)
+
 ## Problem Statement
 Should a new brand enter the Indian D2C skincare market in 2026?
 
