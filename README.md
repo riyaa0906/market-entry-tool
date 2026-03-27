@@ -2,11 +2,11 @@
 
 
 ## App Preview
-![screenshot1](Screenshot%201.png)
-![screenshot2](Screenshot%202.png)
-![screenshot3](Screenshot%203.png)
-![screenshot4](Screenshot%204.png)
-![screenshot5](Screenshot%205.png)
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
+![screenshot3](screenshot3.png)
+![screenshot4](screenshot4.png)
+![screenshot5](screenshot5.png)
 
 ## Problem Statement
 Should a new brand enter the Indian D2C skincare market in 2026?
@@ -24,7 +24,7 @@ Should a new brand enter the Indian D2C skincare market in 2026?
 ## Tools Used
 Python, Streamlit, Pandas, Plotly
 
-## How to Run
+## How to Runa
 pip install streamlit pandas plotly openpyxl
 streamlit run app.py
 
