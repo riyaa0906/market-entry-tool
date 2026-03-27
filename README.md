@@ -19,3 +19,14 @@ Python, Streamlit, Pandas, Plotly
 ## How to Run
 pip install streamlit pandas plotly openpyxl
 streamlit run app.py
+
+
+## Data Limitations
+- Market sizing figures (TAM/SAM/SOM) are estimates based on publicly available 
+  reports from IBEF and Inc42 — exact figures vary across sources
+- Competitor funding data sourced from news articles and may not reflect 
+  latest funding rounds
+- Porter's Five Forces scores are qualitative judgements based on research, 
+  not a standardized scoring model
+- SOM estimate of 2% capture in Year 1 is a conservative assumption, 
+  actual capture depends heavily on marketing spend and distribution strategy
